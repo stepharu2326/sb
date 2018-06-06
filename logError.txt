@@ -1,0 +1,74 @@
+
+[ Minggu, 20 - 05 - 2018 | 07:34:47 ] name 'line' is not defined
+[ Minggu, 20 - 05 - 2018 | 07:35:12 ] name 'line' is not defined
+[ Minggu, 20 - 05 - 2018 | 07:38:43 ] name 'line' is not defined
+[ Minggu, 20 - 05 - 2018 | 07:42:08 ] name 'line' is not defined
+[ Minggu, 20 - 05 - 2018 | 07:43:34 ] name 'line' is not defined
+[ Minggu, 20 - 05 - 2018 | 07:48:55 ] Download object failure.
+[ Minggu, 20 - 05 - 2018 | 07:52:24 ] Download object failure.
+[ Minggu, 20 - 05 - 2018 | 07:55:49 ] Download object failure.
+[ Minggu, 20 - 05 - 2018 | 08:24:49 ] Download object failure.
+[ Senin, 21 - 05 - 2018 | 20:07:12 ] Invalid mids
+[ Senin, 21 - 05 - 2018 | 20:10:46 ] Invalid mids
+[ Senin, 21 - 05 - 2018 | 20:13:06 ] list index out of range
+[ Senin, 21 - 05 - 2018 | 20:13:40 ] list index out of range
+[ Senin, 21 - 05 - 2018 | 20:15:14 ] list index out of range
+[ Selasa, 22 - 05 - 2018 | 11:06:08 ] Invalid mids
+[ Selasa, 22 - 05 - 2018 | 16:30:22 ] name 'line' is not defined
+[ Selasa, 22 - 05 - 2018 | 16:30:54 ] name 'line' is not defined
+[ Selasa, 22 - 05 - 2018 | 16:31:30 ] name 'line' is not defined
+[ Selasa, 22 - 05 - 2018 | 19:03:25 ] Download object failure.
+[ Kamis, 24 - 05 - 2018 | 11:24:59 ] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[ Selasa, 29 - 05 - 2018 | 22:03:43 ] Extra data: line 1 column 5 (char 4)
+[ Selasa, 29 - 05 - 2018 | 22:09:21 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Selasa, 29 - 05 - 2018 | 22:16:05 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Selasa, 29 - 05 - 2018 | 22:21:47 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Kamis, 31 - 05 - 2018 | 10:19:17 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Kamis, 31 - 05 - 2018 | 10:20:49 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Kamis, 31 - 05 - 2018 | 10:25:44 ] 'url'
+[ Sabtu, 02 - 06 - 2018 | 17:10:29 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 18:15:07 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 18:15:39 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 18:30:51 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 18:33:53 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 18:34:25 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 18:45:46 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 22:30:02 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 22:30:19 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 22:30:24 ] local variable 'link' referenced before assignment
+[ Sabtu, 02 - 06 - 2018 | 22:33:40 ] local variable 'link' referenced before assignment
+[ Sabtu, 02 - 06 - 2018 | 22:34:00 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 22:34:03 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 22:43:18 ] Invalid mids
+[ Sabtu, 02 - 06 - 2018 | 22:43:28 ] Invalid mids
+[ Sabtu, 02 - 06 - 2018 | 23:07:47 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 23:08:02 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 23:08:07 ] local variable 'link' referenced before assignment
+[ Sabtu, 02 - 06 - 2018 | 23:19:12 ] name 'name' is not defined
+[ Sabtu, 02 - 06 - 2018 | 23:22:05 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 05:30:50 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 05:33:03 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 05:39:34 ] Download file failure.
+[ Minggu, 03 - 06 - 2018 | 05:39:42 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 05:58:36 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 05:58:38 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 05:58:43 ] local variable 'link' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 06:07:14 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:07:36 ] local variable 'link' referenced before assignment
+[ Minggu, 03 - 06 - 2018 | 06:08:08 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:08:23 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:13:42 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:14:08 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:14:16 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:21:54 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:22:02 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:22:11 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:25:01 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:25:09 ] name 'name' is not defined
+[ Minggu, 03 - 06 - 2018 | 06:25:44 ] name 'name' is not defined
+[ Senin, 04 - 06 - 2018 | 05:04:08 ] name 'name' is not defined
+[ Senin, 04 - 06 - 2018 | 05:04:10 ] name 'name' is not defined
+[ Senin, 04 - 06 - 2018 | 05:04:17 ] name 'name' is not defined
+[ Senin, 04 - 06 - 2018 | 05:36:46 ] name 'name' is not defined
+[ Selasa, 05 - 06 - 2018 | 04:26:18 ] name 'name' is not defined
+[ Selasa, 05 - 06 - 2018 | 14:32:14 ] Extra data: line 1 column 5 (char 4)
